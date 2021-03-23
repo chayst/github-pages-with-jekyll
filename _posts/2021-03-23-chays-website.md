@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Chays website!"
+title:  Welcome to Chays website!
 date: 2021-03-23
 ---
 
