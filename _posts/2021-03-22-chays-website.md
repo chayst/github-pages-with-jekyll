@@ -1,6 +1,5 @@
 ---
-layout: post
-title:  Welcome to Chays website!
+title: "Your blog post title"
 date: 2021-03-23
 ---
 
